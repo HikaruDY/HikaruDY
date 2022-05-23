@@ -5,6 +5,7 @@ This account mainly deals with personal tools and derivations of external open s
 **Programming languages:** C, C#, JavaScript, Perl, Darkness Script
 
 > I :heart: implementations don't use 3rd party libraries in Windows and Web developments. 
+> > **Warning**
 > > So I don't familiar with these: 3rd party game engines, frameworks, middlewares.
 
 **Technologies:** HTML, CSS, Game (DriectX 9/11/12), Windows Embedded / Server, Network, Original Linux distribution
